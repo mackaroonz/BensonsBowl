@@ -25,4 +25,5 @@ Tech Stack
 ## Goal
 To build a personalized dog food resource that helps pet owners create nutritionally balanced, vet-conscious meals using ingredients they already have — while avoiding overfeeding on specific nutrients
 
+---
 Built with ❤️ by [Gracelyn Wilcox]
